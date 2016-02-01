@@ -1,0 +1,13 @@
+.calendar-container {
+  display: inline-block;
+  float: left;
+}
+
+.text-box {
+  float: left;
+  margin-left: 30px;
+  border: solid 1px grey;
+  width: 200px;
+  height: 25px;
+}
+
